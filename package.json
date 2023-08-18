@@ -7,16 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.js"
   },
-  "repository": {
+  "repository": { 
     "type": "git",
-    "url": "git+https://github.com/jacob259/Coffee-API.git"
+    "url": "git+https://github.com/devwalshe/vercelpos.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jacob259/Coffee-API/issues"
+    "url": "https://github.com/devwalshe/vercelpos/issues"
   },
-  "homepage": "https://github.com/jacob259/Coffee-API#readme",
+  "homepage": "https://github.com/devwalshe/vercelpos#readme",
   "dependencies": {
     "add-event-to-calendar": "^1.0.7",
     "body-parser": "^1.20.0",
